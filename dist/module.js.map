@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["SunburstCtrl"],"mappings":";;;;;;;;AAAQA,kB,oBAAAA,Y;;;2BAGNA,Y","file":"module.js","sourcesContent":["import {SunburstCtrl} from './sunburst_ctrl.js';\n\nexport {\n  SunburstCtrl as PanelCtrl\n};\n"]}
